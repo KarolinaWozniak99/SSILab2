@@ -1,0 +1,6 @@
+C:\Users\LENOVO\Desktop\Studia 3\SSI\Zadanie2\bin\Debug\Zadanie2.exe.config
+C:\Users\LENOVO\Desktop\Studia 3\SSI\Zadanie2\bin\Debug\Zadanie2.exe
+C:\Users\LENOVO\Desktop\Studia 3\SSI\Zadanie2\bin\Debug\Zadanie2.pdb
+C:\Users\LENOVO\Desktop\Studia 3\SSI\Zadanie2\obj\Debug\Zadanie2.csprojAssemblyReference.cache
+C:\Users\LENOVO\Desktop\Studia 3\SSI\Zadanie2\obj\Debug\Zadanie2.exe
+C:\Users\LENOVO\Desktop\Studia 3\SSI\Zadanie2\obj\Debug\Zadanie2.pdb
